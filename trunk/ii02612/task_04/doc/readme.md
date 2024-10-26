@@ -51,13 +51,13 @@ dialogue web UI - ```localhost:3033```
 # Результат #
 
 sc-web - ```localhost:8000```:
-![nika1.png](nika1.png)
+![Результат:](./nika1.png)
 
 
 dialogue web UI - ```localhost:3033```:
-![nika2.png](nika2.png)
-![nika3.png](nika3.png)
+![Результат:](./nika2.png)
+![Результат:](./nika3.png)
 
 
 Docker Desktop:
-![nika4.png](nika4.png)
+![Результат:](./nika4.png)
